@@ -1,2 +1,4 @@
 # random-seats
-good
+TODO:
+- [ ] Add background image
+- [ ] Improve code structure
