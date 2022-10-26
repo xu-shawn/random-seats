@@ -24,8 +24,6 @@ function shuffle(array) {
   return array;
 }
 
-var namesold = ["Avery", "Anders", "Theo", "Ronan", "Abi", "Masato", "Max", "Drew", "Jazzy", "Alex", "Ryder", "Lucas", "Maya", "Will", "Lincoln", "Eilot", "Shawn"];
-
 var names = [
   new Person("Avery","https://lh3.googleusercontent.com/a-/ACNPEu8qa8tWlWfXzDi-02g3zU3f_qFr366--O9xMYsU=s544-p-k-no"), 
   new Person("Anders","https://lh3.googleusercontent.com/a-/ACNPEu8U3h6C_pkNV8KKZgArqIlqM7C8rzCGq99-lgq8=s544-p-k-no"), 
