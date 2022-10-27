@@ -1,0 +1,23 @@
+{
+  "name": "random-seats",
+  "version": "1.0.0",
+  "description": "A seating chart for Class of 2026 English 9B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu-shawn/random-seats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu-shawn/random-seats/issues"
+  },
+  "homepage": "https://github.com/xu-shawn/random-seats#readme",
+  "dependencies": {
+    "three": "^0.145.0"
+  }
+}
