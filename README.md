@@ -1,4 +1,4 @@
 # random-seats
 TODO:
-- [ ] Add background image
+- [ ] Add 3D model
 - [ ] Improve code structure
