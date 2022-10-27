@@ -1,7 +1,6 @@
 import * as THREE from 'three';
 
 import { Scene } from 'three';
-import {element} from "three/addons/nodes/shadernode/ShaderNodeBaseElements";
 
 function isWebGLAvailable() {
     try {
